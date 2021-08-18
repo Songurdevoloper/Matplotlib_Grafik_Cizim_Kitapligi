@@ -309,7 +309,7 @@ plt.show()
 
 
 
-# Sonucumuz geldi "" adli diagramda basligimizin sol tarafa gectigini goreceksinizdir.
+# Sonucumuz geldi "ornek28.png" adli diagramda basligimizin sol tarafa gectigini goreceksinizdir.
 # Ayrica unutmayin loc kisaltilmis halidir normalde bunun anlami location = yer ' dir
 
 
